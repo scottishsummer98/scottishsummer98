@@ -21,7 +21,7 @@
 
 ### Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white)](https://github.com/scottishsummer98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&hide=css,html&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white)](https://github.com/scottishsummer98)
 
 <br   />   
 
