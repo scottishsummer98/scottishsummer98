@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Check my portfolio here 
+### Check my portfolio here
+
 👉 https://md-samiur-rahman.netlify.app/
 
 ![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
@@ -11,11 +12,9 @@
 👉 https://whackamariam.netlify.app/ <br/>
 👉 https://targaryenyou.netlify.app/ <br/>
 
-<br/>
-
 ### Connect with me:
 
-[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 <br />
 
