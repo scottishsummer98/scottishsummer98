@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]  
 
 <br />
 
