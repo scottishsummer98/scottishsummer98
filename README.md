@@ -15,6 +15,8 @@
 ### Connect with me:
 
 [<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]  
+[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]  
+[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 
 <br />
 
@@ -25,3 +27,5 @@
 <br   />   
 
 [linkedin]: https://www.linkedin.com/in/scottishsummer/
+[facebook]: https://www.facebook.com/scottishsummer/
+[twitter]: https://twitter.com/sseekhkebabb
