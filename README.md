@@ -25,5 +25,5 @@
 <br   />   
 
 [linkedin]: https://www.linkedin.com/in/scottishsummer/
-[facebook]: https://www.facebook.com/scottishsummer/
-[twitter]: https://twitter.com/sseekhkebabb
+[facebook]: https://www.facebook.com/
+[twitter]: https://twitter.com/
