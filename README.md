@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**scottishsummer98/scottishsummer98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Check my portfolio here 
+👉 https://md-samiur-rahman.netlify.app/
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### While you are visiting, try one of my Java Script Games
+👉 https://rockpaperscissorsspock.netlify.app/
+👉 https://clickaroo.netlify.app/
+👉 https://whackamariam.netlify.app/
+👉 https://targaryenyou.netlify.app/
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+
+<br />
+
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white)](https://github.com/scottishsummer98)
+
+<br   />   
+
+[linkedin]: https://www.linkedin.com/in/scottishsummer/
