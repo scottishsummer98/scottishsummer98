@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Check my portfolio hereee
+### Check my portfolio here
 
 👉 https://md-samiur-rahman.netlify.app/
 
