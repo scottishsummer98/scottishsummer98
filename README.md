@@ -10,7 +10,7 @@
 👉 https://rockpaperscissorsspock.netlify.app/ <br/> 
 👉 https://clickaroo.netlify.app/ <br/>
 👉 https://whackamariam.netlify.app/ <br/>
-👉 https://targaryenyou.netlify.app/ <br/>
+### 👉 https://targaryenyou.netlify.app/ <br/>
 
 ### Connect with me:
 
