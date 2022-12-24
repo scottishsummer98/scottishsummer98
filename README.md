@@ -18,10 +18,6 @@
 
 <br />
 
-### Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=20&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white)](https://github.com/scottishsummer98)
-
 [linkedin]: https://www.linkedin.com/in/scottishsummer/
 [facebook]: https://www.facebook.com/
 [twitter]: https://twitter.com/
