@@ -7,10 +7,10 @@
 ![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
 ### While you are visiting, try one of my Java Script Games
-### 👉 https://rockpaperscissorsspock.netlify.app/ <br/> 
-### 👉 https://clickaroo.netlify.app/ <br/>
-### 👉 https://whackamariam.netlify.app/ <br/>
-### 👉 https://targaryenyou.netlify.app/ <br/>
+ 👉 https://rockpaperscissorsspock.netlify.app/ <br/> 
+ 👉 https://clickaroo.netlify.app/ <br/>
+ 👉 https://whackamariam.netlify.app/ <br/>
+ 👉 https://targaryenyou.netlify.app/ <br/>
 
 ### Connect with me:
 
