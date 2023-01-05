@@ -1,4 +1,4 @@
-### Hi thereee e👋
+### Hi there 👋
 
 ### Check my portfolio here
 
