@@ -4,7 +4,7 @@
 
 👉 https://md-samiur-rahman.netlify.app/
 
-<!-- ### While you are visiting, try one of my Java Script Games
+### While you are visiting, try one of my Java Script Games
  👉 https://rockpaperscissorsspock.netlify.app/ <br/> 
  👉 https://clickaroo.netlify.app/ <br/>
  👉 https://whackamariam.netlify.app/ <br/>
