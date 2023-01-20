@@ -10,7 +10,7 @@
  👉 https://whackamariam.netlify.app/ <br/>
  👉 https://targaryenyou.netlify.app/ <br/>
 
-![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS) -->
+![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
 ### Connect with me:
 
