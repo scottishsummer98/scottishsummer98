@@ -5,11 +5,10 @@
 👉 https://md-samiur-rahman.netlify.app/
 
 ### While you are visiting, try one of my Java Script Games
- 👉 https://roadtofifawc2022.netlify.app/ <br/> 
- 👉 https://rockpaperscissorsspock.netlify.app/ <br/> 
- 👉 https://clickaroo.netlify.app/ <br/>
- 👉 https://whackamariam.netlify.app/ <br/>
+ 👉 https://roadtofifawc2022.netlify.app/ <br/>
  👉 https://targaryenyou.netlify.app/ <br/>
+ 👉 https://rockpaperscissorsspock.netlify.app/ <br/>
+ 👉 https://whackamariam.netlify.app/ <br/>
 
 ![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
