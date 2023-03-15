@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### Check my portfolio here
 
 👉 https://md-samiur-rahman.netlify.app/
 
-### While you are visiting, try one of my Java Script Games
+### While you are visiting, try one of my JavaScript Games
  👉 https://roadtofifawc2022.netlify.app/ <br/>
  👉 https://targaryenyou.netlify.app/ <br/>
  👉 https://rockpaperscissorsspock.netlify.app/ <br/>
