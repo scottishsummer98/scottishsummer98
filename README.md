@@ -20,7 +20,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=5&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white&hide=css,html,blade,scss,shell,procfile,hack,less)](https://github.com/scottishsummer98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=10&layout=compact&bg_color=000000&text_color=feff89&show_icons=true&title_color=black&icon_color=white&hide=shell,procfile,hack,less)](https://github.com/scottishsummer98)
 
 [linkedin]: https://www.linkedin.com/in/scottishsummer/
 [facebook]: https://www.facebook.com/samiur.rahman.39982631/
