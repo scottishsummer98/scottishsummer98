@@ -1,22 +1,18 @@
 **Check my portfolio here**
 
 👉 https://md-samiur-rahman.netlify.app/
+
 ![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
 
-**GitHub Activity Graph**
+## GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=react-dark&bg_color=20232a&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=react-dark&bg_color=20232a&hide_border=true&from=2020-01-01&to=2024-12-20)
 
 
 **Most Used Languages**
 
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scottishsummer98&theme=monokai)](https://github.com/scottishsummer98)
-
-
-**Contributions Calendar**
-
-![Contributions Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scottishsummer98&theme=monokai)
 
 
 **While you are visiting, try one of my JavaScript Games**
