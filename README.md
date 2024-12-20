@@ -14,7 +14,7 @@
 
 **Languages Used**
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=30)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=10&hide=css,html,scss)
 
 
 **While you are visiting, try one of my JavaScript Games**
