@@ -29,5 +29,5 @@
 
 **Connect with Me**
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/scottishsummer/) 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg)](https://www.facebook.com/samiur.rahman.39982631/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="22px" height="22px">](https://www.linkedin.com/in/scottishsummer/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="22px" height="22px">](https://www.facebook.com/samiur.rahman.39982631/)
