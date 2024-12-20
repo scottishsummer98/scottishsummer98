@@ -14,7 +14,7 @@
 
 **Most Used Languages**
 
-[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/all-language?username=scottishsummer98&theme=monokai&exclude=HTML,CSS,SCSS)](https://github.com/scottishsummer98)
+[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/top-language?username=scottishsummer98&theme=monokai&exclude=HTML,CSS,SCSS)](https://github.com/scottishsummer98)
 
 
 **While you are visiting, try one of my JavaScript Games**
