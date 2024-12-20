@@ -12,9 +12,9 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=tokyonight&bg_color=20232a&hide_border=true)
 
 
-**Most Used Languages**
+**Languages Used**
 
-[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/top-language?username=scottishsummer98&theme=monokai&exclude=HTML,CSS,SCSS)](https://github.com/scottishsummer98)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottishsummer98&langs_count=30)
 
 
 **While you are visiting, try one of my JavaScript Games**
