@@ -7,12 +7,14 @@
 
 ## GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=tokyonight&bg_color=20232a&hide_border=true&from=2020-01-01&to=2024-12-20)
+![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scottishsummer98&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=tokyonight&bg_color=20232a&hide_border=true)
 
 
 **Most Used Languages**
 
-[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scottishsummer98&theme=monokai&exclude=HTML,CSS,SCSS)](https://github.com/scottishsummer98)
+[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/all-language?username=scottishsummer98&theme=monokai&exclude=HTML,CSS,SCSS)](https://github.com/scottishsummer98)
 
 
 **While you are visiting, try one of my JavaScript Games**
