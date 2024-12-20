@@ -7,7 +7,7 @@
 
 ## GitHub Activity Graph
 
-![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scottishsummer98&theme=tokyonight)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=scottishsummer98&show_icons=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=tokyonight&bg_color=20232a&hide_border=true)
 
