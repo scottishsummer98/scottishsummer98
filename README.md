@@ -5,8 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=scottishsummer98&label=PROFILE+VIEWS)
 
 
-## GitHub Activity Graph
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=scottishsummer98&include_all_commits=true&show_icons=true&theme=cobalt)
+**GitHub Stats**
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=scottishsummer98&include_all_commits=true&show_icons=true&hide_title=true&hide=rank&theme=cobalt)
 
 
 **Languages Used**
