@@ -27,9 +27,7 @@
  👉 https://whackamariam.netlify.app/ <br/>
 
 
-**Connect with me**
+**Connect with Me**
 
-[<img align="left" alt="linkedinsvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin] [<img align="left" alt="facebooksvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
-<br />
-[linkedin]: https://www.linkedin.com/in/scottishsummer/
-[facebook]: https://www.facebook.com/samiur.rahman.39982631/
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/scottishsummer/) 
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg)](https://www.facebook.com/samiur.rahman.39982631/)
