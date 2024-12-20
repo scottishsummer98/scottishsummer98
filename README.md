@@ -7,7 +7,7 @@
 
 ## GitHub Activity Graph
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=scottishsummer98&show_icons=true&theme=cobalt)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=scottishsummer98&show_icons=true&theme=cobalt&include_all_commits=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottishsummer98&theme=tokyonight&bg_color=20232a&hide_border=true)
 
