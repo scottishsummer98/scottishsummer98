@@ -25,8 +25,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedinsvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin] [<img align="left" alt="facebooksvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook] [<img align="left" alt="twittersvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
-
+[<img align="left" alt="linkedinsvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin] [<img align="left" alt="facebooksvg" width="22px" text_color="white" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/scottishsummer/
